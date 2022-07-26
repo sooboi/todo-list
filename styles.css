@@ -23,6 +23,7 @@ body {
 
 .task-tabs div {
   padding: 1rem;
+  cursor: pointer;
 }
 
 #under-line {
